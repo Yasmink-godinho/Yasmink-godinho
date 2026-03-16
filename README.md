@@ -32,3 +32,4 @@
 
 </div>
 
+![snake gif](https://raw.githubusercontent.com/Yasmink-godinho/Yasmink-godinho/output/github-contribution-grid-snake.svg)
