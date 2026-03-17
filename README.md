@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Yasmin 👩‍💻
 
 💻 Desenvolvedora Full-Stack em formação  
-🎓 Estudante de Anãlise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
  <div>
    <a href="https://github.com/Yasmink-godinho">
